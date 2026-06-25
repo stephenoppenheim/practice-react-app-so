@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Sarah Chen",
+        "age": 28,
+        "bio": "Full-stack dev & coffee enthusiast. Building open-source web tools in Chicago."
+    },
+    {
+        "id": 2,
+        "name": "Marcus Vance",
+        "age": 34,
+        "bio": "Audio engineer turned UI designer. Obsessed with high-end sound and minimalist grid layouts."
+    },
+    {
+        "id": 3,
+        "name": "Elena Rostova",
+        "age": 24,
+        "bio": "Data analyst and avid reader. On a mission to read 50 books before the year ends."
+    },
+    {
+        "id": 4,
+        "name": "David Kim",
+        "age": 31,
+        "bio": "Product manager, amateur chef, and local library advocate. Living in St. Louis."
+    },
+    {
+        "id": 5,
+        "name": "Amara Okafor",
+        "age": 29,
+        "bio": "Cybersecurity specialist. Teaching accessible, secure coding standards to new developers."
+    }
+]
