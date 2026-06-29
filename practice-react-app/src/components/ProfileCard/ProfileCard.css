@@ -1,0 +1,24 @@
+
+.profile-card {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    container-type: inline-size;
+    box-sizing: border-box;
+    margin: 15px 0px;
+    width: 100%;
+    aspect-ratio: 1.75;
+    padding: 0px 2.9%;
+}
+
+.profile-card * {
+    margin: 1%;
+}
+
+.profile-card h3 {
+    font-size: 10cqw;
+}
+
+.profile-card p {
+    font-size: 6cqw;
+}
